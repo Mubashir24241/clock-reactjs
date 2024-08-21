@@ -1,0 +1,19 @@
+.lead {
+    background-color: rgb(150, 198, 204);
+    border-radius: 20px;
+    width: 1000px;
+    margin-top: 20px;
+    
+
+}
+
+h1{
+    background-color: rgb(109, 150, 186);
+    width: 1000px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+/* .clock {
+    background-color: rgb(174, 200, 209);
+} */
